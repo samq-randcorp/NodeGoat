@@ -6,7 +6,7 @@
   "main": "server.js",
   "dependencies": {
     "@storybook/react": "^6.3.12",
-    "@vue/cli-service": "^4.5.15",
+    "@vue/cli-service": "^5.0.0",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.15.1",
     "consolidate": "^0.14.1",
